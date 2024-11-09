@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.djtmewibu.com/jp.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml
 
 #MAIN DTV1 (720p)
 
