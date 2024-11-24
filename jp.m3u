@@ -218,7 +218,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6&bi
 
 #BSCS (primehome)
 
-#EXTINF:-1 tvg-id="ＢＳテレ東.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BSCS (primehome)",BSテレ東 (primehome)
+#EXTINF:-1 tvg-id="ＢＳテレ東.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BSCS(primehome)",BSテレ東 (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380926&sign=6346ec716f9c73ecce541b471ce81a20ed521c47665b085bb075ffd9eba93328
 
 #EXTINF:-1 tvg-id="ＢＳフジ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/BS_FUJI_Logo.jpg" group-title="BSCS(primehome)",BSフジ (primehome)
