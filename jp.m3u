@@ -49,7 +49,7 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="TOKYO・MX_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanh)
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
+#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="TOKYO・MX2_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
 http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="毎日テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (vthanh)
