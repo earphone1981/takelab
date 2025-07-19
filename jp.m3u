@@ -184,6 +184,8 @@ https://abc-live00.ipcasting.jp/regionals/wtv00/live-multi.m3u8
 https://dai.google.com/linear/hls/pb/event/B7pp42DySPWPIYhyW_stbA/stream/588f537e-467a-4f06-afb1-d85530f69c91:SIN/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球奈良
 https://abc-live00.ipcasting.jp/regionals/tvn00/live-multi.m3u8
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球奈良2
+https://dai.google.com/linear/hls/pb/event/Qsl_KNoNRw-K8kar31nqbw/stream/22c3b69d-73c2-49b1-b31f-d084751e25a1:SIN/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球高知1
 https://abc-live00.ipcasting.jp/regionals/kcb00/live-multi.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球高知2
