@@ -111,7 +111,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=7&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="Pay Channel" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",カートゥーン ネットワーク
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
-#EXTINF:-1 group-title="Pay Channel" tvg-id="ＭＴＶ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan *SD  
+#EXTINF:-1 group-title="Pay Channel" tvg-id="MTV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan *SD  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="Pay Channel" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://i.imgur.com/0xaqmtH.jpeg",ミュージック・ジャパンTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
@@ -136,7 +136,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=7&bi
 
 #BS
 
-#EXTINF:-1 group-title="BS" tvg-id="ＮＨＫ・ＢＳ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="アニマックス_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 http://vthanh.utako.moe/Animax/index.m3u8
