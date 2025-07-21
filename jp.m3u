@@ -205,9 +205,9 @@ http://vthanh.utako.moe/ntvgplus/index.m3u8
 http://vthanh.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="MONDOTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
 http://vthanh.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="ＴＢＳチャンネル1_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
+#EXTINF:-1 group-title="CS" tvg-id="TBSChannel1.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
 http://vthanh.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="ＴＢＳチャンネル2_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
+#EXTINF:-1 group-title="CS" tvg-id="TBSChannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
 http://vthanh.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="テレ朝チャンネル1_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
 http://vthanh.utako.moe/ex_ch1/index.m3u8
