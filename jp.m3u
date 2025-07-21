@@ -150,7 +150,7 @@ http://vthanh.utako.moe/bsp4k/index.m3u8
 http://vthanh.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="BS朝日_jp" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
 http://vthanh.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="BSTBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
+#EXTINF:-1 group-title="BS" tvg-id="BSTBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
 http://vthanh.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="BSテレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
 http://vthanh.utako.moe/bstvtokyo/index.m3u8
@@ -168,13 +168,13 @@ http://vthanh.utako.moe/wlive/index.m3u8
 http://vthanh.utako.moe/nihon_eiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="BS10スターチャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
 http://vthanh.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="JSPORTS1_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
+#EXTINF:-1 group-title="BS" tvg-id="JSPORTS1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
 http://vthanh.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="JSPORTS2_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
+#EXTINF:-1 group-title="BS" tvg-id="JSPORTS2.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
 http://vthanh.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="JSPORTS3_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
+#EXTINF:-1 group-title="BS" tvg-id="JSPORTS3.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
 http://vthanh.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="JSPORTS4_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
+#EXTINF:-1 group-title="BS" tvg-id="JSPORTS4.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
 http://vthanh.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
 http://vthanh.utako.moe/green/index.m3u8
