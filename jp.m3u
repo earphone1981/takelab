@@ -551,7 +551,7 @@ https://abc-live00.ipcasting.jp/regionals/eat00/live-multi.m3u8
 https://abc-live00.ipcasting.jp/regionals/eat02/live-multi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球京都1
-https://abc-live00.ipcasting.jp/regionals/miyavision00/live-multi.m3u8
+https://abc-live00.ipcasting.jp/regionals/miyavision00/live-qvbr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会",高校野球滋賀1
 https://abc-live00.ipcasting.jp/regionals/bbc00/live-multi.m3u8
