@@ -119,7 +119,7 @@ http://vthanh.utako.moe/skya/index.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://vthanh.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+#EXTINF:-1 group-title="CS" tvg-id="KayoPops.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",歌謡ポップスチャンネル
 https://vthanh.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="MTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV
 https://vthanh.utako.moe/mtv/index.m3u8
