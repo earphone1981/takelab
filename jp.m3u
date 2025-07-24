@@ -125,7 +125,7 @@ https://vthanh.utako.moe/kayopops/index.m3u8
 https://vthanh.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://vthanh.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="DisneyChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
+#EXTINF:-1 group-title="CS" tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/P4zlWgx.jpeg",ディズニー・チャンネル
 https://vthanh.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="CartoonNetwork.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
 https://vthanh.utako.moe/cartoon_network/index.m3u8
