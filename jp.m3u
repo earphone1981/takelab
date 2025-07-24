@@ -108,7 +108,7 @@ http://vthanh.utako.moe/js3/index.m3u8
 http://vthanh.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="GreenChannel.jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",グリーンチャンネル
 http://vthanh.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
+#EXTINF:-1 group-title="BS" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",GAORA SPORTS
 http://vthanh.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="スカイA_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",Sky A
 http://vthanh.utako.moe/skya/index.m3u8
