@@ -51,19 +51,6 @@ http://vthanh.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ (vthanh)
 http://vthanh.utako.moe/suntv/index.m3u8
 
-#競馬
-
-#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",グリーンチャンネル (vthanh)
-http://vthanh.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380940&sign=c2eb10631ba99427b7b64b3d5f6890b7224ac3577940e2c64fba2847fa543b7a
-#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
-#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル3
-http://103.255.250.202:5002/bs14.m3u8?token=3c4a25552206b8511dc8654ccaa2b6a65858c16f2ad0446a6f735cfb0693c93b&gid=bs14&channel=zhongying
-#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
-
 #BS
 
 #EXTINF:-1 group-title="BS" tvg-id="NHK・BS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
@@ -175,6 +162,7 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://vthanh.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="VParadise.jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://vthanh.utako.moe/v_paradise/index.m3u8
+
 #予備Ch
 
 #EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 
@@ -244,6 +232,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=7&bi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
 #EXTINF:-1 group-title="Pay Channel" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png",ナショナル ジオグラフィック
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772939&sign=b81b2215d0d8954e7c9ed0fa3fdc67fe314143109ec424cdc7c700df7af78651
+
+#競馬
+
+#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",グリーンチャンネル (vthanh)
+http://vthanh.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380940&sign=c2eb10631ba99427b7b64b3d5f6890b7224ac3577940e2c64fba2847fa543b7a
+#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380849&sign=2a87d11ca6d93311ef31ab7f2b8e5919140bd936c2dd98a4b18d07936b94a3ed
+#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル3
+http://103.255.250.202:5002/bs14.m3u8?token=3c4a25552206b8511dc8654ccaa2b6a65858c16f2ad0446a6f735cfb0693c93b&gid=bs14&channel=zhongying
+#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
 
 #Abema_240p
 
@@ -557,7 +558,7 @@ https://amg02570-amg02570c22-bbm-worldwide-6641.playouts.now.amagi.tv/playlist/a
 
 #高校野球地方大会
 
-#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会26日開催",高校野球山形
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会28日開催",高校野球山形
 https://abc-live00.ipcasting.jp/regionals/yts00/live-qvbr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会26日開催",高校野球東東京
