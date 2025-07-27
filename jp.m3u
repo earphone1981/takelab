@@ -653,6 +653,9 @@ https://abc-live00.ipcasting.jp/regionals/hab00/live-qvbr.m3u8
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会27日開催",高校野球京都
 https://abc-live00.ipcasting.jp/regionals/kbs00/live-qvbr.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会27日開催",高校野球大阪
+https://abc-live00.ipcasting.jp/regionals/osaka03/live-qvbr.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球地方大会27日開催",高校野球岡山
 https://abc-live00.ipcasting.jp/regionals/ksb00/live-qvbr.m3u8
 
