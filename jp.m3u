@@ -42,7 +42,7 @@ http://vthanh.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="読売テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (vthanh)
 http://vthanh.utako.moe/ytv/index.m3u8
 
-#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="テレビ大阪_jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪 (vthanh)  
+#EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="テレビ大阪_jp" tvg-logo="https://i.imgur.com/0ZZDaKi.jpeg", テレビ大阪 (vthanh)  
 http://vthanh.utako.moe/tvo/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanh)" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都 (vthanh)  
@@ -91,9 +91,9 @@ https://vthanh.utako.moe/js2/index.m3u8
 https://vthanh.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="JSPORTS4.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
 https://vthanh.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="GreenChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
+#EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",Green Channel
 https://vthanh.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="GAORASPORTS.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
+#EXTINF:-1 group-title="BS" tvg-id="gaora" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",GAORA SPORTS
 https://vthanh.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://uk.vthanh.utako.moe/skya/index.m3u8
@@ -104,15 +104,15 @@ https://uk.vthanh.utako.moe/nihon_eiga/index.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://uk.vthanh.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="KayoPops.jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",歌謡ポップスチャンネル
 https://uk.vthanh.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="MTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan
 https://uk.vthanh.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://vthanh.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="DisneyChannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
+#EXTINF:-1 group-title="CS" tvg-id="disney_ch" tvg-logo="https://i.imgur.com/P4zlWgx.jpeg",ディズニー・チャンネル
 https://uk.vthanh.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="CartoonNetwork.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",カートゥーン ネットワーク
 https://uk.vthanh.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="NitteleGPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
 https://uk.vthanh.utako.moe/ntvgplus/index.m3u8
@@ -553,6 +553,7 @@ https://amg02570-amg02570c16-bbm-worldwide-4798.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1 group-title="fast_ch" tvg-id="fastch_jpthp" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/50/MckCK9nWgo7mhQSvcgeiCw7yUWM6SgmuvegTgXmS.png",ぴあ落語ざんまい
 https://amg02570-amg02570c22-bbm-worldwide-6641.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-rakugo-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
 
 
 
