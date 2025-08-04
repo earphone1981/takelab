@@ -81,7 +81,7 @@ https://vn.utako.moe/bsp4k/index.m3u8
 https://vn.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
 https://vn.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
+#EXTINF:-1 group-title="BS" tvg-id="BS-TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
 https://vn.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
 https://vn.utako.moe/bstvtokyo/index.m3u8
@@ -120,7 +120,7 @@ https://us.utako.moe/nihon_eiga/index.m3u8
 https://us.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",歌謡ポップスチャンネル
 https://us.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan
+#EXTINF:-1 group-title="CS" tvg-id="MTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV Japan
 https://us.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://vn.utako.moe/AT-X/index.m3u8
@@ -279,8 +279,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bi
 http://103.255.250.202:5002/bs14.m3u8?token=3c4a25552206b8511dc8654ccaa2b6a65858c16f2ad0446a6f735cfb0693c93b&gid=bs14&channel=zhongying
 #EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800412&sign=53e31853a343a676dd522e938dc45806b6462fafe7344ee9015a9455566b5081
-#EXTINF:-1 group-title="競馬" tvg-id="グリーンチャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーンチャンネル5
-https://us.utako.moe/green/index.m3u8
+
+
 #Abema_240p
 
 #EXTINF:-1 tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,ABEMA NEWSチャンネル
@@ -599,11 +599,6 @@ https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a
 https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/254a500a-3e5b-47ed-afd9-29a1640906e1/0.m3u8?pdt=-9227&session=254a500a-3e5b-47ed-afd9-29a1640906e1&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MjI3In0.P4tEa-VFrfeZVk-REfHnx6bG6ztKsWXe-INHizqjcQA
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",日本テレビ (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-ntv/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-11920/c989ac2f-7928-4352-b323-fe4d7b8f4d92/0.m3u8?pdt=-10351&session=c989ac2f-7928-4352-b323-fe4d7b8f4d92&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii0xMDM1MSJ9.xxyvJ29IHjEENAm3IeFds4jF-4XLubelOvDUSvd4nEg
-#EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png" group-title="TVerﾘｱﾙﾀｲﾑ",テレビ朝日 (Tver)
-https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/d929a682-bf65-4cf2-9ee5-52ca205bfa64/0.m3u8?pdt=-17365&session=d929a682-bf65-4cf2-9ee5-52ca205bfa64&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE3MzY1In0.m6EUia4pqmItAPZY-qQOq9SOpjfE6znYb6zYocphyN0
-#EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",フジテレビ (Tver)
-https://ssai-manifest.streaks.jp/v6/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImY0ZDBlNjAyYzZkMjRmMTdiNzNiZDE3ZjNiNDRlNTYzIiwiZWRnZSI6ImY4ZjBlOTJhYzQ4ZTQyZjJhYTMyOTM2MWQ2MDA3OWI2IiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDEzMzYwMCwidnA5IjoxLCJzbSI6IjhhZmY4MjMzYTg4MzQ2MTU5ZDZmM2M5YzI1ZTY4MjVhIiwicHB3IjoiMXZ0In0.QaSpKfxeN3VHlXaTYJS9EcfV--b6ojw9KsYu1lkJCYM&pdt=-6627&session=4a1a2b54-7272-4e20-9e8b-d02ec8d49cda
-
 
 
 
