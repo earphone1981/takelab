@@ -604,6 +604,25 @@ https://ssai-manifest.streaks.jp/v6/tver-simul-ex/498c4512f66846f1b0a5a3320ee035
 #EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",フジテレビ (Tver)
 https://ssai-manifest.streaks.jp/v6/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImY0ZDBlNjAyYzZkMjRmMTdiNzNiZDE3ZjNiNDRlNTYzIiwiZWRnZSI6ImY4ZjBlOTJhYzQ4ZTQyZjJhYTMyOTM2MWQ2MDA3OWI2IiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDMxOTYwMCwidnA5IjoxLCJzbSI6IjhhZmY4MjMzYTg4MzQ2MTU5ZDZmM2M5YzI1ZTY4MjVhIiwicHB3IjoiMXZ0In0.TKcLica8Ketj019pmLyTTbKoqQu5xQaBB5zBbOt9v7c&pdt=-6627&session=15e356b0-5aed-45b8-a6d7-d6f0bdc1f341
 
+#全国高校野球選手権大会
+
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球",TV放送
+https://abc-live00.ipcasting.jp/ch00s/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球",一塁側
+https://abc-live00.ipcasting.jp/ch01s/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球",三塁側
+https://abc-live00.ipcasting.jp/ch02s/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.asahicom.jp/koshien/virtualbaseball/images/ogp/live_ogp.jpg" group-title="高校野球",球場全景
+https://abc-live00.ipcasting.jp/ch03s/live.m3u8
+
+#EXTINF:-1 tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="高校野球",NHK G (US server)
+https://us.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="高校野球",NHK E (US server)
+https://us.utako.moe/NHK_E/index.m3u8
 
 
 
