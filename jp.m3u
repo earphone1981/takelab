@@ -210,30 +210,18 @@ http://103.255.250.187:5002/gx04.m3u8?token=07c10c699b620bba74a8f41e2f6bccc31138
 http://103.255.250.202:5002/gx06.m3u8?token=8e9b4c79c61d7699511b63e699afef81e7405236550d83504b0102f77e1d7a21&gid=gx06&channel=zhongying
 #EXTINF:-1 group-title="予備Ch" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ
 http://103.255.250.187:5002/gx07.m3u8?token=38a824287e0290c4a2fb507ed69dd9dcb299c7e41d1d25e4977bf699bd73d4db&gid=gx07&channel=zhongying
-#EXTINF:-1 group-title="予備Ch" tvg-id="日本テレビ_jp" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="予備Ch",日本テレビ (mov3)
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="日本テレビ_jp" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",　日本テレビ (mov3)
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 group-title="予備Ch" tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TV-TOKYO
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TV-TOKYO(mov3)
 https://vsd156.okcdn.ru/hls/8305016506996.m3u8/sig/pCZ-fxkah7o/expires/1754703297675/srcIp/220.156.221.121/urls/185.226.55.82/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9805102325364/video.m3u8?p
-#EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", テレ朝
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="テレビ朝日_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", テレビ朝日(mov3)
 https://vsd253.okcdn.ru/hls/8303255358045.m3u8/sig/EqjX3pqGAz0/expires/1754703438088/srcIp/220.156.221.121/urls/45.136.22.57/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9234868543069/video.m3u8?p
-#EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・教育_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", フジテレビ
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="フジテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ(mov3)
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-http://49.12.135.136:5002/gd02.m3u8?token=319095c0f8eeec7074798b75307e5208150e4ab46f83be9a2786888ac28ac1d0&gid=gd02&channel=zhongying
-#EXTINF:-1 group-title="予備Ch" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ 
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (mov3)
 https://tbs5.mov3.co/hls/tbs.m3u8
-http://103.255.250.194:5002/gd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af935fd8b21292229f94c0575b9f43&gid=gd04&channel=zhongying
-#EXTINF:-1 group-title="予備Ch" tvg-id="フジテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", tokyomx
-https://vsd154.okcdn.ru/hls/8232482638583.m3u8/sig/_q13fzahpZU/expires/1754703772953/srcIp/220.156.221.121/urls/45.136.22.55/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9904454246135/video.m3u8?p
-http://103.255.250.194:5002/gd05.m3u8?token=d9a6f5a5659353a1fbf465c41774bbcc211bd4c0ce3b2dddb18a4e17a3944fd8&gid=gd05&channel=zhongying
-#EXTINF:-1 group-title="予備Ch" tvg-id="テレビ朝日_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", NHK総合
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合(mov3)
 https://nhk4.mov3.co/hls/nhk.m3u8
-http://103.255.250.194:5002/gd06.m3u8?token=f8ecbf85d48651e375257c7290f642a95dee703416676bba84807aa4d6a5ffde&gid=gd06&channel=zhongying
-#EXTINF:-1 group-title="予備Ch" tvg-id="TOKYO・MX_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX
-http://103.255.250.194:5002/gd08.m3u8?token=070f3daea45361de5f351cb0e436cbfbf3ec24c96dc80ba9b5ef2f737574d996&gid=gd08&channel=zhongying
-
-
-
-
 
 #Pay Channel
 
@@ -642,6 +630,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 
 
 
