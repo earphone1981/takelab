@@ -225,7 +225,8 @@ http://103.255.250.194:5002/gd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af
 #EXTINF:-1 group-title="予備Ch" tvg-id="フジテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", tokyomx
 https://vsd154.okcdn.ru/hls/8232482638583.m3u8/sig/_q13fzahpZU/expires/1754703772953/srcIp/220.156.221.121/urls/45.136.22.55/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9904454246135/video.m3u8?p
 http://103.255.250.194:5002/gd05.m3u8?token=d9a6f5a5659353a1fbf465c41774bbcc211bd4c0ce3b2dddb18a4e17a3944fd8&gid=gd05&channel=zhongying
-#EXTINF:-1 group-title="予備Ch" tvg-id="テレビ朝日_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", テレビ朝日
+#EXTINF:-1 group-title="予備Ch" tvg-id="テレビ朝日_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", NHK総合
+https://nhk4.mov3.co/hls/nhk.m3u8
 http://103.255.250.194:5002/gd06.m3u8?token=f8ecbf85d48651e375257c7290f642a95dee703416676bba84807aa4d6a5ffde&gid=gd06&channel=zhongying
 #EXTINF:-1 group-title="予備Ch" tvg-id="TOKYO・MX_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX
 http://103.255.250.194:5002/gd08.m3u8?token=070f3daea45361de5f351cb0e436cbfbf3ec24c96dc80ba9b5ef2f737574d996&gid=gd08&channel=zhongying
