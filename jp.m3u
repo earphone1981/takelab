@@ -210,6 +210,26 @@ http://103.255.250.187:5002/gx04.m3u8?token=07c10c699b620bba74a8f41e2f6bccc31138
 http://103.255.250.202:5002/gx06.m3u8?token=8e9b4c79c61d7699511b63e699afef81e7405236550d83504b0102f77e1d7a21&gid=gx06&channel=zhongying
 #EXTINF:-1 group-title="予備Ch" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ
 http://103.255.250.187:5002/gx07.m3u8?token=38a824287e0290c4a2fb507ed69dd9dcb299c7e41d1d25e4977bf699bd73d4db&gid=gx07&channel=zhongying
+#EXTINF:-1 group-title="予備Ch" tvg-id="日本テレビ_jp" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="予備Ch",日本テレビ (mov3)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="予備Ch" tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TV-TOKYO
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 
+http://23.88.76.237:5002/gd01.m3u8?token=d4c9104f316a9715b0fd06c25e863e80ca6db9c82e367c41e9a775b1428c27f5&gid=gd01&channel=zhongying
+#EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・教育_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育
+http://49.12.135.136:5002/gd02.m3u8?token=319095c0f8eeec7074798b75307e5208150e4ab46f83be9a2786888ac28ac1d0&gid=gd02&channel=zhongying
+#EXTINF:-1 group-title="予備Ch" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ 
+http://103.255.250.194:5002/gd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af935fd8b21292229f94c0575b9f43&gid=gd04&channel=zhongying
+#EXTINF:-1 group-title="予備Ch" tvg-id="フジテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ
+http://103.255.250.194:5002/gd05.m3u8?token=d9a6f5a5659353a1fbf465c41774bbcc211bd4c0ce3b2dddb18a4e17a3944fd8&gid=gd05&channel=zhongying
+#EXTINF:-1 group-title="予備Ch" tvg-id="テレビ朝日_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", テレビ朝日
+http://103.255.250.194:5002/gd06.m3u8?token=f8ecbf85d48651e375257c7290f642a95dee703416676bba84807aa4d6a5ffde&gid=gd06&channel=zhongying
+#EXTINF:-1 group-title="予備Ch" tvg-id="TOKYO・MX_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX
+http://103.255.250.194:5002/gd08.m3u8?token=070f3daea45361de5f351cb0e436cbfbf3ec24c96dc80ba9b5ef2f737574d996&gid=gd08&channel=zhongying
+
+
+
+
 
 #Pay Channel
 
@@ -446,13 +466,15 @@ https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a
 #EXTINF:-1 tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", group-title="TVerﾘｱﾙﾀｲﾑ",TBS (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/254a500a-3e5b-47ed-afd9-29a1640906e1/0.m3u8?pdt=-9227&session=254a500a-3e5b-47ed-afd9-29a1640906e1&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MjI3In0.P4tEa-VFrfeZVk-REfHnx6bG6ztKsWXe-INHizqjcQA
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",日本テレビ (Tver)
-https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",日本テレビ (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-ntv/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-11920/c989ac2f-7928-4352-b323-fe4d7b8f4d92/0.m3u8?pdt=-10351&session=c989ac2f-7928-4352-b323-fe4d7b8f4d92&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii0xMDM1MSJ9.xxyvJ29IHjEENAm3IeFds4jF-4XLubelOvDUSvd4nEg
 #EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png" group-title="TVerﾘｱﾙﾀｲﾑ",テレビ朝日 (Tver)
 https://ssai-manifest.streaks.jp/v6/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjQ5OTFkYmNhNDAwYTRjOGQ4ZmIyYzA1YzVjMmJlNmNlIiwiZWRnZSI6ImI5NGVlMTJlY2VkYTQ4OTJhMzE0MDRkNDQ4ZjY1ZDMzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDQ4NzAwMCwidnA5IjoxLCJzbSI6IjMyZDZkYzU2MjI2YTQwMGE4NTFhMjgwOGFkNzZlN2Y2IiwicHB3IjoiMjAxIn0.RxDDuIo0g0LzzlIOdwcR7eyFQc_mXTFVfrXhwO9tqhw&pdt=-17231&session=4b67f4b0-9968-4f01-8d73-16f86c4a157e
 #EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",フジテレビ (Tver)
 https://ssai-manifest.streaks.jp/v6/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImY0ZDBlNjAyYzZkMjRmMTdiNzNiZDE3ZjNiNDRlNTYzIiwiZWRnZSI6ImY4ZjBlOTJhYzQ4ZTQyZjJhYTMyOTM2MWQ2MDA3OWI2IiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDQ4NzAwMCwidnA5IjoxLCJzbSI6IjhhZmY4MjMzYTg4MzQ2MTU5ZDZmM2M5YzI1ZTY4MjVhIiwicHB3IjoiMXZ0In0._Aomrt-WSlxsoENjiuJkWjWGzBMrsAOWv1xJQJVm-PU&pdt=-6627&session=c2dd892d-ba40-4725-917f-84285a23ee2c
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="予備",日本テレビ (mov3)
+https://ntv4.mov3.co/hls/ntv.m3u8
+
 
 #全国高校野球選手権大会
 
@@ -616,5 +638,6 @@ https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 
 
