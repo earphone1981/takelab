@@ -210,18 +210,16 @@ http://103.255.250.187:5002/gx04.m3u8?token=07c10c699b620bba74a8f41e2f6bccc31138
 http://103.255.250.202:5002/gx06.m3u8?token=8e9b4c79c61d7699511b63e699afef81e7405236550d83504b0102f77e1d7a21&gid=gx06&channel=zhongying
 #EXTINF:-1 group-title="予備Ch" tvg-id="サンテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ
 http://103.255.250.187:5002/gx07.m3u8?token=38a824287e0290c4a2fb507ed69dd9dcb299c7e41d1d25e4977bf699bd73d4db&gid=gx07&channel=zhongying
-#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="日本テレビ_jp" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",　日本テレビ (mov3)
-https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TV-TOKYO(mov3)
-https://vsd156.okcdn.ru/hls/8305016506996.m3u8/sig/pCZ-fxkah7o/expires/1754703297675/srcIp/220.156.221.121/urls/185.226.55.82/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9805102325364/video.m3u8?p
-#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="テレビ朝日_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", テレビ朝日(mov3)
-https://vsd253.okcdn.ru/hls/8303255358045.m3u8/sig/EqjX3pqGAz0/expires/1754703438088/srcIp/220.156.221.121/urls/45.136.22.57/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9234868543069/video.m3u8?p
-#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="フジテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ(mov3)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (mov3)
-https://tbs5.mov3.co/hls/tbs.m3u8
+
 #EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合(mov3)
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="日本テレビ_jp" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",　日本テレビ (mov3)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ (mov3)
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="予備Ch(mov3)" tvg-id="フジテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ(mov3)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
 
 #Pay Channel
 
@@ -455,7 +453,7 @@ https://amg02570-amg02570c22-bbm-worldwide-6641.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="TVerﾘｱﾙﾀｲﾑ",テレビ東京 (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/1a8716bd-3249-4b74-a500-f59ff9d07744/0.m3u8?pdt=-10352&session=1a8716bd-3249-4b74-a500-f59ff9d07744&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTEwMzUyIn0.o5cjJ8mcJAwZfDsJnK38RL0rKsQi5KdoF-Tp9J5XQJQ
-#EXTINF:-1 tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", group-title="TVerﾘｱﾙﾀｲﾑ",TBS (Tver)
+#EXTINF:-1 tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",TBS (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/254a500a-3e5b-47ed-afd9-29a1640906e1/0.m3u8?pdt=-9227&session=254a500a-3e5b-47ed-afd9-29a1640906e1&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MjI3In0.P4tEa-VFrfeZVk-REfHnx6bG6ztKsWXe-INHizqjcQA
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",日本テレビ (Tver)
 https://ssai-variants.streaks.jp/v5/tver-simul-ntv/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-11920/c989ac2f-7928-4352-b323-fe4d7b8f4d92/0.m3u8?pdt=-10351&session=c989ac2f-7928-4352-b323-fe4d7b8f4d92&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii0xMDM1MSJ9.xxyvJ29IHjEENAm3IeFds4jF-4XLubelOvDUSvd4nEg
@@ -463,9 +461,6 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ntv/938232e586b34196b704a58396639
 https://ssai-manifest.streaks.jp/v6/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjQ5OTFkYmNhNDAwYTRjOGQ4ZmIyYzA1YzVjMmJlNmNlIiwiZWRnZSI6ImI5NGVlMTJlY2VkYTQ4OTJhMzE0MDRkNDQ4ZjY1ZDMzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDQ4NzAwMCwidnA5IjoxLCJzbSI6IjMyZDZkYzU2MjI2YTQwMGE4NTFhMjgwOGFkNzZlN2Y2IiwicHB3IjoiMjAxIn0.RxDDuIo0g0LzzlIOdwcR7eyFQc_mXTFVfrXhwO9tqhw&pdt=-17231&session=4b67f4b0-9968-4f01-8d73-16f86c4a157e
 #EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",フジテレビ (Tver)
 https://ssai-manifest.streaks.jp/v6/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImY0ZDBlNjAyYzZkMjRmMTdiNzNiZDE3ZjNiNDRlNTYzIiwiZWRnZSI6ImY4ZjBlOTJhYzQ4ZTQyZjJhYTMyOTM2MWQ2MDA3OWI2IiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDQ4NzAwMCwidnA5IjoxLCJzbSI6IjhhZmY4MjMzYTg4MzQ2MTU5ZDZmM2M5YzI1ZTY4MjVhIiwicHB3IjoiMXZ0In0._Aomrt-WSlxsoENjiuJkWjWGzBMrsAOWv1xJQJVm-PU&pdt=-6627&session=c2dd892d-ba40-4725-917f-84285a23ee2c
-
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="予備",日本テレビ (mov3)
-https://ntv4.mov3.co/hls/ntv.m3u8
 
 
 #全国高校野球選手権大会
@@ -630,6 +625,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 
 
 
