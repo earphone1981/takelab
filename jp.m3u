@@ -216,7 +216,8 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 https://vsd156.okcdn.ru/hls/8305016506996.m3u8/sig/pCZ-fxkah7o/expires/1754703297675/srcIp/220.156.221.121/urls/185.226.55.82/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9805102325364/video.m3u8?p
 #EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", テレ朝
 https://vsd253.okcdn.ru/hls/8303255358045.m3u8/sig/EqjX3pqGAz0/expires/1754703438088/srcIp/220.156.221.121/urls/45.136.22.57/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9234868543069/video.m3u8?p
-#EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・教育_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育
+#EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・教育_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", フジテレビ
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 http://49.12.135.136:5002/gd02.m3u8?token=319095c0f8eeec7074798b75307e5208150e4ab46f83be9a2786888ac28ac1d0&gid=gd02&channel=zhongying
 #EXTINF:-1 group-title="予備Ch" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBSテレビ 
 http://103.255.250.194:5002/gd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af935fd8b21292229f94c0575b9f43&gid=gd04&channel=zhongying
