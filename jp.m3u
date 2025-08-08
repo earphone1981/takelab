@@ -213,7 +213,7 @@ http://103.255.250.187:5002/gx07.m3u8?token=38a824287e0290c4a2fb507ed69dd9dcb299
 #EXTINF:-1 group-title="予備Ch" tvg-id="日本テレビ_jp" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="予備Ch",日本テレビ (mov3)
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="予備Ch" tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TV-TOKYO
-https://ntv4.mov3.co/hls/ntv.m3u8
+https://vsd156.okcdn.ru/hls/8305016506996.m3u8/sig/pCZ-fxkah7o/expires/1754703297675/srcIp/220.156.221.121/urls/185.226.55.82/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/9805102325364/video.m3u8?p
 #EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 東京 
 http://23.88.76.237:5002/gd01.m3u8?token=d4c9104f316a9715b0fd06c25e863e80ca6db9c82e367c41e9a775b1428c27f5&gid=gd01&channel=zhongying
 #EXTINF:-1 group-title="予備Ch" tvg-id="NHK東京・教育_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK教育
