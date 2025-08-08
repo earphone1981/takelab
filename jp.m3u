@@ -431,7 +431,8 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ntv/938232e586b34196b704a58396639
 #EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png" group-title="TVerﾘｱﾙﾀｲﾑ",テレビ朝日 (Tver)
 https://ssai-manifest.streaks.jp/v6/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjQ5OTFkYmNhNDAwYTRjOGQ4ZmIyYzA1YzVjMmJlNmNlIiwiZWRnZSI6ImI5NGVlMTJlY2VkYTQ4OTJhMzE0MDRkNDQ4ZjY1ZDMzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDQ4NzAwMCwidnA5IjoxLCJzbSI6IjMyZDZkYzU2MjI2YTQwMGE4NTFhMjgwOGFkNzZlN2Y2IiwicHB3IjoiMjAxIn0.RxDDuIo0g0LzzlIOdwcR7eyFQc_mXTFVfrXhwO9tqhw&pdt=-17231&session=4b67f4b0-9968-4f01-8d73-16f86c4a157e
 #EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVerﾘｱﾙﾀｲﾑ",フジテレビ (Tver)
-https://ssai-manifest.streaks.jp/v6/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/hls/v5/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6ImY0ZDBlNjAyYzZkMjRmMTdiNzNiZDE3ZjNiNDRlNTYzIiwiZWRnZSI6ImY4ZjBlOTJhYzQ4ZTQyZjJhYTMyOTM2MWQ2MDA3OWI2IiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc1NDQ4NzAwMCwidnA5IjoxLCJzbSI6IjhhZmY4MjMzYTg4MzQ2MTU5ZDZmM2M5YzI1ZTY4MjVhIiwicHB3IjoiMXZ0In0._Aomrt-WSlxsoENjiuJkWjWGzBMrsAOWv1xJQJVm-PU&pdt=-6627&session=c2dd892d-ba40-4725-917f-84285a23ee2c
+https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/05ef7914-5bf9-4c40-8ff2-57997d7c59e1/0.m3u8?pdt=-6627&session=05ef7914-5bf9-4c40-8ff2-57997d7c59e1&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
+
 
 
 #全国高校野球選手権大会
@@ -596,6 +597,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 
 
 
