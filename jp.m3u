@@ -90,9 +90,11 @@ http://171.244.62.178/jptv2/get.php?id=7_NqQ8YhAIHChUndlSRpYQ==
 http://171.244.62.178/jptv2/get.php?id=Hj8HzlXSQnqBFMUva4MA4g==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="J-COM-BS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jupiter_Telecommunications_logo.svg/292px-Jupiter_Telecommunications_logo.svg.png",jcom bs
 http://171.244.62.178/jptv2/get.php?id=l6kArOPkx3rCe-BY5PGk5Q==
-
+http://171.244.62.178/jptv2/get.php?id=G7Ernt-n_X5V7KUcreybIQ==
 #VThanhTV-ExclusiveCS
 
+#EXTINF:-1 group-title="CS / VTTV" tvg-id="kayo_pops" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",歌謡ポップスチャンネル
+http://171.244.62.178/jptv2/get.php?id=1Tr6-XU6jnR9bECmjsJg8g==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="TABIChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png", 旅チャンネルＨＤ / Tabi Channel
 http://171.244.62.178/jptv2/get.php?id=bMt3M9FLE1owVWp5Do1qnQ==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="鉄道チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tetsudo_channel_jp.png", 鉄道チャンネル / Tetsudo Channel
@@ -123,7 +125,7 @@ http://171.244.62.178/jptv2/get.php?id=gnFwEiPGB-QioCyMBfvEMA==
 http://171.244.62.178/jptv2/get.php?id=84u-cm6u_Ms6JzWF4Dbtkg==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="SkyA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイ・A / Sky A  
 http://171.244.62.178/jptv2/get.php?id=oJyS_HypG6uzUEEJODMaWg==
-#EXTINF:-1 group-title="CS / VTTV" tvg-id="GaoraSports.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
+#EXTINF:-1 group-title="CS / VTTV" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
 http://171.244.62.178/jptv2/get.php?id=tO9COl46v4MdIi1NdbzL0A==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="NitteleGPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+
 http://171.244.62.178/jptv2/get.php?id=dXGFqT_agGYcOrjCIa5vPg==
@@ -155,7 +157,7 @@ http://171.244.62.178/jptv2/get.php?id=VelQc1lmVJnTyEmr6oK1RA==
 http://171.244.62.178/jptv2/get.php?id=3q1U1u-6q9QMDWuMuvpPUA==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_next.png", フジテレビＮＥＸＴ / Fuji TV Next
 http://171.244.62.178/jptv2/get.php?id=rhKOiZXma2k2EoIaL9RCmg==
-#EXTINF:-1 group-title="CS / VTTV" tvg-id="スーパー!ドラマtv_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png", スーパー！ドラマＴＶ / Super! Drama TV
+#EXTINF:-1 group-title="CS / VTTV" tvg-id="スーパー!ドラマTV_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png", スーパー！ドラマＴＶ / Super! Drama TV
 http://171.244.62.178/jptv2/get.php?id=Dx-fj30YfMqlPP9MVx7qvQ==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="Dlife(ディーライフ)_jp" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",  dlife 
 http://171.244.62.178/jptv2/get.php?id=3d_lKfbxi344MiAxcjIypQ==
@@ -177,7 +179,7 @@ http://171.244.62.178/jptv2/get.php?id=xPz9TWJwU7yL_fToz1k9sg==
 http://171.244.62.178/jptv2/get.php?id=I9B-HWhc2NgCmw6X9ahDMg==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", ナショナル ジオグラフィック / National Geographic
 http://171.244.62.178/jptv2/get.php?id=OZooDkZinq-FLyeL7jtOHw==
-#EXTINF:-1 group-title="CS / VTTV" tvg-id="日テレNEWS24_jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-news-24-jp.svg", 日テレNEWS24 / NTV News 24
+#EXTINF:-1 group-title="CS / VTTV" tvg-id="日テレNEWS24_jp" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-news-24-jp.svg"　catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8", 日テレNEWS24 / NTV News 24
 http://171.244.62.178/jptv2/get.php?id=TUUoaNpgwX_Bs7GXhkkw_g==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="TBS-NEWS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", ＴＢＳニュースバード / TBS News Bird
 http://171.244.62.178/jptv2/get.php?id=D6eJg7aQZE3DKVZWNTTnYw==
@@ -185,6 +187,9 @@ http://171.244.62.178/jptv2/get.php?id=D6eJg7aQZE3DKVZWNTTnYw==
 http://171.244.62.178/jptv2/get.php?id=-uV8jOhgHBRuuEMBdU0Yig==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="kntv" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kntv-jp.svg" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8" , kntv  
 http://171.244.62.178/jptv2/get.php?id=z3QuIfTGLtMqsBfWF1H4Pg==
+#EXTINF:-1 group-title="CS / VTTV" tvg-id="囲碁・将棋チャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ii/igoshogi.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1310/video-${start}-${offset}.m3u8" , 囲碁将棋チャンネル
+http://171.244.62.178/jptv2/get.php?id=G7Ernt-n_X5V7KUcreybIQ==
+
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://vn.utako.moe/NHK_G/index.m3u8
@@ -780,6 +785,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 
 
 
