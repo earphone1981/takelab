@@ -2,19 +2,31 @@
 
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
+#EXTINF:-1 group-title="Kanto / hd" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G 
+http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8" , NHK E (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
+#EXTINF:-1 group-title="Kanto / hd" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1302/video-${start}-${offset}.m3u8" , NHK E 
+http://171.244.62.178/jptv2/get.php?id=hnsnBqHDt2EXQupW2soBjw==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1303/video-${start}-${offset}.m3u8" , NTV (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
+#EXTINF:-1 group-title="Kanto / hd" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1303/video-${start}-${offset}.m3u8" , NTV 
+http://171.244.62.178/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=bRZUMcrX_kQ5R0XP-xJcZg==
+#EXTINF:-1 group-title="Kanto / hd" tvg-id="JORXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
+#EXTINF:-1 group-title="Kanto / hd" tvg-id="JOCXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
+http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1304/video-${start}-${offset}.m3u8", TV Asahi  (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
+#EXTINF:-1 group-title="Kanto / hd" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" atchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1304/video-${start}-${offset}.m3u8", TV Asahi
+http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="JOTXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8" , TV Tokyo (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
-#EXTINF:-1 group-title="Kanto / VTTV" tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8" , TV Tokyo 
+#EXTINF:-1 group-title="Kanto / hd" tvg-id="テレ東_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1306/video-${start}-${offset}.m3u8" , TV Tokyo 
 http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
 #EXTINF:-1 group-title="Kanto / VTTV" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
@@ -23,31 +35,31 @@ http://171.244.62.178/jptv2/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
 
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="NHK大阪・総合_jp" tvg-logo=tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G (osaka)
 http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
-#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="NHK大阪・教育_jp" tvg-logo=tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G (osaka)
+#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="NHK大阪・教育_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G (osaka)
 http://171.244.62.178/jptv2/get.php?id=Efifu_2sffWgvfUzPuoNvA==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=R3W0ABMki1QGwd3TxPxjhA==
-#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="毎日テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+#EXTINF:-1 group-title="Kansai / hd" tvg-id="毎日テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 http://171.244.62.178/jptv2/get.php?id=ZOJu5avj3LIqoRXR9ogC0w==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="JOAYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=oI8q04LSmuVJ76lxll2FWg==
-#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC
+#EXTINF:-1 group-title="Kansai / hd" tvg-id="ABCテレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC
 http://171.244.62.178/jptv2/get.php?id=G2VFEt11D2hQyexpltLAFQ==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="JODXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=jXAkGPMC5sVcMvQ09HoU4g==
-#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="関西テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+#EXTINF:-1 group-title="Kansai / hd" tvg-id="関西テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
 http://171.244.62.178/jptv2/get.php?id=M1nVWHnA3F2pv8mBmfM0PQ==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
-#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="読売テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV 
+#EXTINF:-1 group-title="Kansai / hd" tvg-id="読売テレビ_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV 
 http://171.244.62.178/jptv2/get.php?id=hYnuGNMX-sWlu6qDdQe5bg==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="tv_osaka" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png", TV Osaka (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=czZDtneIVvfAZn-728ylZw==
-#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="tv_osaka" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png", TV Osaka 
+#EXTINF:-1 group-title="Kansai / hd" tvg-id="tv_osaka" tvg-logo="https://asianwiki.com/images/e/e1/TV_Osaka-p1.png", TV Osaka 
 http://171.244.62.178/jptv2/get.php?id=Ep1PQsectdEoqb5giVMrdw==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS Kyoto (1080p VTTV)
 http://171.244.62.178/jptv2/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
-#EXTINF:-1 group-title="Kansai / VTTV" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS Kyoto
+#EXTINF:-1 group-title="Kansai / hd" tvg-id="KBS京都_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png", KBS Kyoto
 http://171.244.62.178/jptv2/get.php?id=-th1_a7-fXyMoWDACk-jjg==
 
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1309/video-${start}-${offset}.m3u8" , NHK BS1  
@@ -106,7 +118,8 @@ http://171.244.62.178/jptv2/get.php?id=7_NqQ8YhAIHChUndlSRpYQ==
 http://171.244.62.178/jptv2/get.php?id=Hj8HzlXSQnqBFMUva4MA4g==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="J-COM-BS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jupiter_Telecommunications_logo.svg/292px-Jupiter_Telecommunications_logo.svg.png",jcom bs
 http://171.244.62.178/jptv2/get.php?id=l6kArOPkx3rCe-BY5PGk5Q==
-http://171.244.62.178/jptv2/get.php?id=G7Ernt-n_X5V7KUcreybIQ==
+
+
 #VThanhTV-ExclusiveCS
 
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="kayo_pops" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",歌謡ポップスチャンネル
@@ -801,6 +814,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 
 
 
