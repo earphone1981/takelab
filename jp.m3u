@@ -18,6 +18,7 @@ http://171.244.62.178/jptv2/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
 http://171.244.62.178/jptv2/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
 
 #VThanhTV-Exclusive
+
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="NHK大阪・総合_jp" tvg-logo=tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" catchup="append" catchup-days="3" catchup-source="http://123.30.146.168:21585/1301/video-${start}-${offset}.m3u8", NHK G (osaka)
 http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
 #EXTINF:-1 group-title="Kansai / VTTV" tvg-id="JOOYDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS (1080p VTTV)
@@ -87,11 +88,11 @@ http://171.244.62.178/jptv2/get.php?id=iEpvKTL_zcrh2cTR1D8EUA==
 http://171.244.62.178/jptv2/get.php?id=7_NqQ8YhAIHChUndlSRpYQ==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel  
 http://171.244.62.178/jptv2/get.php?id=Hj8HzlXSQnqBFMUva4MA4g==
-#EXTINF:-1 group-title="BS / VTTV" tvg-id="BS12トゥエルビ_jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12トゥエルビ
-http://171.244.62.178/jptv2/get.php?id=WEtgDOVPkrw08bZvlQM6fA==
 #EXTINF:-1 group-title="BS / VTTV" tvg-id="J-COM-BS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jupiter_Telecommunications_logo.svg/292px-Jupiter_Telecommunications_logo.svg.png",jcom bs
 http://171.244.62.178/jptv2/get.php?id=l6kArOPkx3rCe-BY5PGk5Q==
+
 #VThanhTV-ExclusiveCS
+
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="TABIChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png", 旅チャンネルＨＤ / Tabi Channel
 http://171.244.62.178/jptv2/get.php?id=bMt3M9FLE1owVWp5Do1qnQ==
 #EXTINF:-1 group-title="CS / VTTV" tvg-id="鉄道チャンネル_jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tetsudo_channel_jp.png", 鉄道チャンネル / Tetsudo Channel
@@ -779,6 +780,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128" group-title="Abema_240p" ,競輪・オートレースチャンネル
 https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
+
 
 
 
